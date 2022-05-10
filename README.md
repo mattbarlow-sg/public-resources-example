@@ -1,1 +1,1 @@
-# public-resources-example
+# config rules
